@@ -1,25 +1,17 @@
 <template>
 
-  <div class="wapper">
-  <HeaderArea />
-  <MenuArea />
-  <FooterArea />
-  </div>
-
+<LayoutWrapper>
+  <p>サンプルアプリ一覧</p>
+  <ul>
+  <li><a href="/todoapp/">ToDoアプリ</a></li>
+  </ul>
+</LayoutWrapper>
 </template>
 
 
 <script>
-// @ is an alias to /src
-import HeaderArea from '@/components/modules/HeaderArea.vue'
-import FooterArea from '@/components/modules/FooterArea.vue'
-import MenuArea from '@/components/modules/MenuArea.vue'
 
 export default {
-  components: {
-    HeaderArea,
-    FooterArea,
-    MenuArea,
-  }
+
 }
 </script>
