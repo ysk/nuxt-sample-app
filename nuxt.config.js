@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'nuxt-app',
+    title: 'Nuxt.JS SAMPLE COLLECTION',
     htmlAttrs: {
       lang: 'en',
     },
@@ -19,6 +19,7 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    '~/assets/css/reset.css',
     '~/assets/css/common.css'
   ],
 

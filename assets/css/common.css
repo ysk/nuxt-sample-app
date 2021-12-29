@@ -1,0 +1,21 @@
+
+.wapper{
+    width: 1024px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.content{
+    border: solid 1px #999;
+    padding: 10px;
+}
+
+
+.header{
+    background: #eee;
+    padding: 20px;
+}
+.footer{
+    background: #eee;
+    padding: 20px;
+}

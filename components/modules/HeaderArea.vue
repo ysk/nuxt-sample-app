@@ -1,10 +1,10 @@
 <template>
 
-<div class="header">
-<header>
-<NuxtLogo />
-</header>
-</div>
+
+  <header class="header">
+  <NuxtLogo />
+  </header>
+
 </template>
 
 

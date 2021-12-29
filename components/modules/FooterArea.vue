@@ -1,5 +1,5 @@
 <template>
-<footer>
+<footer class="footer">
 
 <small>&copy; Yusuke Ikeda.</small>
 
