@@ -2,9 +2,11 @@
   <LayoutWrapper>
     <h1 class="page-title"> {{pageTitle}}</h1>
     <AppMenuArea />
+    <div class="modal-app">
+      モーダルウィンドウ
+    </div>
   </LayoutWrapper>
 </template>
-
 
 <script>
 import AppMenuArea from '@/components/modules/AppMenuArea.vue'
@@ -14,7 +16,7 @@ export default {
   },
   data(){
     return{
-      pageTitle: 'サンプルアプリ一覧',
+      pageTitle: 'モーダルウィンドウ',
     }
   }
 }

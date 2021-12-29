@@ -10,6 +10,12 @@
     padding: 10px;
 }
 
+.page-title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
 
 .header{
     background: #eee;

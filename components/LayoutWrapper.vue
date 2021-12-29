@@ -10,12 +10,9 @@
 </template>
 
 <script>
-// @ is an alias to /src
-
 import HeaderArea from '@/components/modules/HeaderArea.vue'
 import FooterArea from '@/components/modules/FooterArea.vue'
 import '@/assets/css/common.css'
-
 export default {
   components: {
     HeaderArea,
@@ -23,3 +20,6 @@ export default {
   }
 }
 </script>
+<style lang="scss">
+
+</style>

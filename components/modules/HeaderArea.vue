@@ -1,15 +1,12 @@
 <template>
-
-
-  <header class="header">
-  <NuxtLogo />
-  </header>
-
+  <div>
+    <header class="header">
+    <NuxtLogo />
+    </header>
+  </div>
 </template>
 
-
 <script>
-// @ is an alias to /src
 import NuxtLogo from '@/components/modules/NuxtLogo.vue'
 
 export default {
@@ -18,9 +15,7 @@ export default {
   }
 }
 </script>
-
-
-<style>
+<style lang="scss">
 
 
 </style>
