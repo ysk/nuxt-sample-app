@@ -14,6 +14,7 @@
 
 import HeaderArea from '@/components/modules/HeaderArea.vue'
 import FooterArea from '@/components/modules/FooterArea.vue'
+import '@/assets/css/common.css'
 
 export default {
   components: {

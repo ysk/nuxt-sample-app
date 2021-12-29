@@ -1,6 +1,7 @@
 
 <template>
 
+
 <LayoutWrapper>
       <h1 class="page-title"> {{pageTitle}}</h1>
       <p>{{ greeting }} World</p>

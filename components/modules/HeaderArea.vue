@@ -1,6 +1,6 @@
 <template>
 
-<div>
+<div class="header">
 <header>
 <NuxtLogo />
 </header>
